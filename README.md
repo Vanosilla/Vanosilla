@@ -5,6 +5,12 @@ The source is based on NosWings code, but without NosWings changes. The source c
 
 ___
 
+## Discord Server
+
+[Discord Server](https://discord.gg/UFKqRU8w8B)
+
+___
+
 ## Why are you publishing these files?
 
 [Click](https://hackmd.io/@7-YADak6T_irIo-ELpd-wQ/noswings)
